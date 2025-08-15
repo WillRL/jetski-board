@@ -1,0 +1,3 @@
+[submodule "Altium-Footprints"]
+	path = Altium-Footprints
+	url = https://github.com/WillRL/Altium-Footprints
