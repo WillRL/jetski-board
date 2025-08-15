@@ -203,23 +203,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LOPOUSBX
 
 [Document10]
-DocumentPath=5V LDO.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NAZHNMLT
-
-[Document11]
 DocumentPath=Generic_Pads.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDJHYGFE
 
-[Document12]
+[Document11]
 DocumentPath=Generic_Pads.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,24 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CVFYWTEQ
 
-[Document13]
-DocumentPath=24V Switching Reg.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RQWXNKDO
-
-[Document14]
+[Document12]
 DocumentPath=DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XPFHSIMQ
 
-[Document15]
+[Document13]
 DocumentPath=Power Muxing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVYMLBWI
 
-[Document16]
+[Document14]
 DocumentPath=RICHTEK_U-Type_12HL_QFN3x3_FC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUYHDEVB
 
-[Document17]
+[Document15]
 DocumentPath=RT6256CH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1

@@ -4,5 +4,3 @@ Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Designator|SchDesignator
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=IO.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=CubeNode.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=CubeNode.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Power Muxing.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Power Muxing.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=top.SchDoc|FileName=5V LDO.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=top.SchDoc|FileName=24V Switching Reg.SchDoc|SheetNumber=8
