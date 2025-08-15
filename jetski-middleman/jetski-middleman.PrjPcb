@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DIEDFHYP
 
 [Document6]
-DocumentPath=MCP47FEB04T-EMQ.PcbLib
+DocumentPath=MICROCHIP_20-Lead_5x5VQFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -186,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YJANIOSH
 
 [Document9]
-DocumentPath=5.5V Switching Reg.SchDoc
+DocumentPath=5V Switching Reg.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NAZHNMLT
 
 [Document11]
-DocumentPath=Pads.SchLib
+DocumentPath=Generic_Pads.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -237,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QDJHYGFE
 
 [Document12]
-DocumentPath=Pads.PcbLib
+DocumentPath=Generic_Pads.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,7 +288,24 @@ GenerateClassCluster=0
 DocumentUniqueId=XPFHSIMQ
 
 [Document15]
-DocumentPath=Power Mux.SchDoc
+DocumentPath=Power Muxing.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KVYMLBWI
+
+[Document16]
+DocumentPath=RICHTEK_U-Type_12HL_QFN3x3_FC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -302,7 +319,24 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KVYMLBWI
+DocumentUniqueId=WUYHDEVB
+
+[Document17]
+DocumentPath=RT6256CH.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BSJOFLBS
 
 [Configuration1]
 Name=Sources
