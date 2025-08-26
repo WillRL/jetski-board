@@ -1,3 +1,4 @@
-[submodule "Altium-Footprints"]
-	path = Altium-Footprints
-	url = https://github.com/WillRL/Altium-Footprints
+
+[submodule "ECAD/altium-footprints"]
+	path = ECAD/altium-footprints
+	url = https://github.com/WillRL/Altium-Footprints.git
